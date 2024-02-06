@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Neucha&family=Poppins:wght@300;400;500;600&display=swap');
 
 .App {
-  width: 100vw;
+  width: 80%;
   height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #2f74c0;
+  background-color: rgb(31, 45, 56);
   font-family: "Neucha", cursive;
+  margin: auto;
+  
 }
 
 .heading {
